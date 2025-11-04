@@ -1,43 +1,60 @@
-# 🌐 Personal Portfolio Website
+# Personal Portfolio Website
 
-A responsive and modern personal portfolio website built using **HTML**, **CSS**, and **JavaScript**.  
-This project showcases personal information, skills, services, and a contact section — making it perfect for developers and designers to highlight their professional profile online.
+A modern, responsive portfolio website built using **HTML**, **CSS**, and **JavaScript**, designed to showcase personal information, skills, experience, and academic projects in a clean, visually appealing layout.
 
----
-
-## 🧭 Overview
-
-This website serves as a **personal portfolio** where users can:
-- Introduce themselves with a professional bio.
-- Highlight skills and services offered.
-- Showcase work experience and contact details.
-- Provide social media links for easy networking.
-
-The design is clean, modern, and fully responsive — ensuring smooth performance across devices.
+This project demonstrates how to structure a **complete single-page website** using semantic HTML, organized CSS files, animations, and a fully responsive design — making it a polished and professional portfolio suitable for academic submission or GitHub showcase.
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
-- 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile devices.  
-- 🖼️ **Profile Section** — Showcases profile image, name, and professional title.  
-- 🧰 **Services Section** — Lists the main services or expertise areas.  
-- 📊 **Skills Section** — Displays skill proficiency using progress bars.  
-- 🧑‍💼 **Contact Section** — Includes links to email and social platforms.  
-- 🌈 **Hover Effects & Animations** — Smooth transitions for interactive UI.  
-- 🌙 **Minimal UI Design** — Clean and professional layout with elegant colors.  
+- 🎨 **Modern UI Design** — Soft colors, smooth edges, and clean layout for a professional look.  
+- 🧊 **Glassmorphism Components** — Frosted panels used in About, Skills, Projects, and Contact sections.  
+- 👤 **Hero Section** — Includes profile image, name, and professional subtitle.  
+- 📘 **About Me Section** — Highlights academic background, front-end development, UI/UX interests, and Android app development.  
+- 🛠️ **Skills Section** — Categorized skill items with smooth progress animations.  
+- 📂 **Projects Section** — Showcases academic and personal projects with images, descriptions, and GitHub links.  
+- ✉️ **Contact Section** — Simple contact form with social media icons.  
+- 📱 **Fully Responsive** — Optimized for mobile, tablet, and desktop screens.  
+- ⚡ **Interactive Animations** — Scroll reveal effects and hover animations for engaging user experience.  
 
 ---
 
 ## 🧠 Technologies Used
 
-| Technology | Purpose |
-|-------------|----------|
-| **HTML5** | Structure of the website |
-| **CSS3** | Styling, layout, and responsive design |
-| **JavaScript** | Interactive and dynamic UI components |
-| **Google Fonts** | Custom font styling |
-| **Font Awesome** | Icons used in navigation and sections |
+| Technology      | Purpose                                         |
+|-----------------|-------------------------------------------------|
+| HTML5           | Structure and layout of the webpage            |
+| CSS3 / Tailwind | Styling, layout, animations, and responsiveness |
+| JavaScript      | Interactivity and scroll animations            |
+| PHP             | Backend logic for user registration (optional) |
+| MySQL           | Database for storing registered user data      |
+| Font Awesome    | Icons for UI enhancement                        |
+| Google Fonts    | Clean and modern typography                     |
+
+---
+
+
+## 🌐 Live Demo
+
+🔗 **Live Portfolio:** [View Here](https://tamim-amin.github.io/portfolio_demo/)  
+
+---
+
+## 👩‍💻 Author
+
+**Tamim Amin**  
+Department of Software Engineering, Metropolitan University, Sylhet  
+GitHub: [https://github.com/Tamim-Amin](https://github.com/Tamim-Amin)  
+Email: tamimamin13579@gmail.com  
+
+---
+
+## ⭐ Acknowledgments
+
+- Guidance from instructors on academic web development practices.  
+- Inspiration from modern UI/UX trends.  
+- Font Awesome & Google Fonts for visual enhancement.  
 
 ---
 
